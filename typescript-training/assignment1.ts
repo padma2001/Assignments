@@ -1,2 +1,3 @@
-let cityTemperature: number = 25.5;
+let cityTemperature: number = 45;
 console.log("City Temperature:", cityTemperature);
+
